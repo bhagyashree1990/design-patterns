@@ -1,13 +1,15 @@
 # design-patterns
 Design Patterns
 
-### Creational
+### Categories
 
-- Singleton
-- Builder
-- Prototype
-- Factory
-- Abstract Factory
+ Creational    |   Structural   |
+ ----------    | ------------   |
+ Singleton     | Adapter        |
+ Builder       | Bridge         |
+ Prototype     |
+ Factory       |
+ Abstract Factory  |
 
 ### References
 
