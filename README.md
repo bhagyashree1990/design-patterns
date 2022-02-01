@@ -7,9 +7,9 @@ Design Patterns
  ----------    | ------------   |
  Singleton     | Adapter        |
  Builder       | Bridge         |
- Prototype     |
- Factory       |
- Abstract Factory  |
+ Prototype     | Composite      |
+ Factory       | Decorator      |
+ Abstract Factory  | Facade     |
 
 ### References
 
