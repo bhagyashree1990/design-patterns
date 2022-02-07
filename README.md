@@ -10,8 +10,8 @@ Design Patterns
  Prototype     | Composite      |
  Factory       | Decorator      |
  Abstract Factory  | Facade     |
- -       |  Flyweight |
- -       | Proxy     |
+ .       |  Flyweight |
+ .       | Proxy     |
 
 ### References
 
