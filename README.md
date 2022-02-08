@@ -7,8 +7,8 @@ Design Patterns
  ----------    | ------------   | ----------- |
  Singleton     | Adapter        | Chain of Responsibility |
  Builder       | Bridge         | Command |
- Prototype     | Composite      |
- Factory       | Decorator      |
+ Prototype     | Composite      | Interpreter |
+ Factory       | Decorator      | Iterator |
  Abstract Factory  | Facade     |
  .       |  Flyweight |
  .       | Proxy     |
