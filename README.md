@@ -9,8 +9,8 @@ Design Patterns
  Builder       | Bridge         | Command |
  Prototype     | Composite      | Interpreter |
  Factory       | Decorator      | Iterator |
- Abstract Factory  | Facade     |
- .       |  Flyweight |
+ Abstract Factory  | Facade     | Mediator |
+ .       |  Flyweight | Memento |
  .       | Proxy     |
 
 ### References
