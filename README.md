@@ -12,6 +12,7 @@ Design Patterns
  Abstract Factory  | Facade     | Mediator |
  .       |  Flyweight | Memento | 
  .       | Proxy     | Observer |
+ .       | .          | State |
 
 ### References
 
