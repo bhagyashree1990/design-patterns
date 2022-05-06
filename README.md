@@ -13,6 +13,7 @@ Design Patterns
  .       |  Flyweight | Memento | 
  .       | Proxy     | Observer |
  .       | .          | State |
+ .       | .          | Strategy |
 
 ### References
 
