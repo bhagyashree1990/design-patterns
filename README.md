@@ -14,6 +14,7 @@ Design Patterns
  .       | Proxy     | Observer |
  .       | .          | State |
  .       | .          | Strategy |
+ .       | .          | Template Method |
 
 ### References
 
